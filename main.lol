@@ -1,0 +1,7 @@
+HAI
+CAN HAS STDIO?
+
+VISIBLE "HELLO, WORLD"
+BTW Ce langage est trop drôle
+
+KTHXBYE
